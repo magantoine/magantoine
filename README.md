@@ -4,6 +4,8 @@
 
 # Academic Research
 
+My [Google Scholar page !](https://scholar.google.com/citations?view_op=list_works&hl=fr&user=m69hk7IAAAAJ)
+
 | Date               | Conference         |   DOI                                                             |   Title | Abstract      |   Code               | 
 |:------------------:|:------------------:|:-----------------------------------------------------------------:|:----------:|:--------:|:------------------:|
 | 5 Feb 2024         |  EACL's NLP4HR     |   [arXiv:2402.03242 [cs.CL]](https://arxiv.org/abs/2402.03242)    |     **JOBSKAPE: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching** |We introduce JobSkape, a framework to generate synthetic data that tackles these limitations, specifically designed to enhance skill-to-taxonomy matching. Within this framework, we create SkillSkape, a comprehensive open-source synthetic dataset of job postings tailored for skill-matching tasks. We introduce several offline metrics that show that our dataset resembles real-world data. Additionally, we present a multi-step pipeline for skill extraction and matching tasks using large language models (LLMs), benchmarking against known supervised methodologies. We outline that the downstream evaluation results on real-world data can beat baselines, underscoring its efficacy and adaptability.              |   https://github.com/magantoine/JobSkape/tree/main  | 
