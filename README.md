@@ -16,4 +16,6 @@
 | 03/2022 | [Distributed Recommender System](https://github.com/magantoine/DistributedRecommenderSystem ) |  Academic | Distributed Recommender System | Scala - Spark | 2 |
 | 10/2021 | [Polarity Of Debate Around Climate Change](https://github.com/magantoine/PolarityOfDebateAroundClimateChange) |  Academic | Investigate all the interventions made by political personalities in the news paper for 10 years and study how the debate gets more and more polarize | Python | 4 |
 | 03/2022 | [Active Learning Algorithm for Efficient and Robust LLM training](https://github.com/magantoine/EfficientActiveLearning) |  Academic | Creates an Active Learning algorithm to train LLMs with fewer samples and to mitigate unbalanced sampling bias  | Python - HuggingFace | 3 |
+|        06/2021       |         [modforge](https://github.com/magantoine/modforge/)         | Personnal | Python productivity tool to complete the Senpy suite. **WIP** |   Python   |     4     |
+
 
