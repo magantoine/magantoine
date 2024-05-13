@@ -15,4 +15,5 @@
 | 04/2022 | [TicTacToe](https://github.com/magantoine/TicTacToe ) |  Academic | Teaches a Reinforcement Learning algorithm how to play Tic Tac Toe | Python - PyTorch | 2 | - |
 | 03/2022 | [Distributed Recommender System](https://github.com/magantoine/DistributedRecommenderSystem ) |  Academic | Distributed Recommender System | Scala - Spark | 2 |
 | 10/2021 | [Polarity Of Debate Around Climate Change](https://github.com/magantoine/PolarityOfDebateAroundClimateChange) |  Academic | Investigate all the interventions made by political personalities in the news paper for 10 years and study how the debate gets more and more polarize | Python | 4 |
-| 03/2022 | [Reward Model for AI Assistant](https://github.com/magantoine/reward_model_for_AI_assistant ) |  Academic | Creates a reward model from RoBERTa to help a custom AI assistant (based on GPT-3) to answer student's academic questions | Python - HuggingFace | 3 |
+| 03/2022 | [Active Learning Algorithm for Efficient and Robust LLM training](https://github.com/magantoine/EfficientActiveLearning) |  Academic | Creates an Active Learning algorithm to train LLMs with fewer samples and to mitigate unbalanced sampling bias  | Python - HuggingFace | 3 |
+
